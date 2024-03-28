@@ -9,6 +9,8 @@ A Roblox demo project that turns your character into a rolling ball.
 
 The code is fully client-sided, meaning you won't see other players as a ball, and they won't see you as a ball.
 
+Created with [Rojo](https://github.com/rojo-rbx/rojo).
+
 ## 📷 | Gameplay
 ![Gameplay](imgs/gameplay.gif)
 
